@@ -28,13 +28,11 @@ https://drive.google.com/open?id=1C9zbGs860rAKlW0BkOIadK68K3fOPe1v
 4.안드로이드 기반 크로스 플랫폼 앱 
 ### 사용한 오픈소스
 라즈베리파이4b 웹캠 카메라 사용 시 파이썬 opencv 활용(https://github.com/opencv/opencv)
-라즈베리파이4b 라이브 스트리밍 시 motion 활용(https://github.com/Motion-Project/motion)
 앱 qr인식(현재 문제 발견하여 변동 가능성 있음)(https://pub.dev/packages/qr_code_scanner)
 ### 사용한 AI
 Yolov5 이용하여 실시간 객체 인식(https://github.com/ultralytics/yolov5)
-차후 Pytorch 이용하여 수정한 모델을 사용할 계획 (https://pytorch.org/)
 ### 사용한 클라우드
-Firebase: 라즈베리 파이에서 촬영된 사진 저장, 앱 데이터베이스로 사용
+Firebase: 라즈베리 파이에서 촬영된 사진 저장, 앱 데이터베이스로 사용, functions 사용하여 백엔드 코드 구현
 
 # Team3. 369
 ### 스타트단계 발표자료
